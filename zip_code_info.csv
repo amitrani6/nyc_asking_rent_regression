@@ -1,0 +1,143 @@
+median_income,neighborhood,percent_high_earner,zipcode
+35449,Alphabet City,6.4,10002.0
+45816,Arverne,3.0,11692.0
+57866,Astoria,11.9,11101.0
+59901,Astoria Heights,4.5,11370.0
+65932,Auburndale,8.4,11358.0
+161419,Battery Park City,37.7,10280.0
+69578,Bay Ridge,10.1,11209.0
+51574,Bedford-Stuyvesant,7.6,11205.0
+47341,Bensonhurst,4.7,11204.0
+79490,Bergen Beach,8.5,11234.0
+48495,Beverley Square East,3.5,11226.0
+,Bithlo,,
+116446,Boerum Hill,26.8,11201.0
+47341,Borough Park,4.7,11204.0
+35449,Bowery,6.4,10002.0
+59535,Briarwood,4.0,11435.0
+35381,Bronxwood,0.9,10467.0
+116446,Brooklyn Heights,26.8,11201.0
+34122,Bushwick,3.8,11206.0
+111937,Carnegie Hill,28.0,10128.0
+93575,Carroll Gardens,22.0,11231.0
+54349,Central Harlem,10.6,10026.0
+99063,Central Park,22.7,10019.0
+58881,Central Riverdale,6.3,10463.0
+116893,Central Slope,24.6,11215.0
+85221,Chelsea,22.4,10001.0
+106056,Chinatown,33.4,10013.0
+242644,Civic Center,57.8,10007.0
+47341,Clarion,4.7,11204.0
+79013,Clinton Hill,12.2,11238.0
+116446,Cobble Hill,26.8,11201.0
+59712,College Point,4.1,11356.0
+51926,Crown Heights,4.7,11225.0
+116446,DUMBO,26.8,11201.0
+57866,Ditmars,11.9,11101.0
+116446,Downtown Brooklyn,26.8,11201.0
+38370,Downtown Flushing,2.6,11355.0
+48140,East Flatbush,3.0,11203.0
+34015,East Harlem,5.0,10029.0
+,East New York,,
+104441,East Village,26.8,10003.0
+34122,East Williamsburg,3.8,11206.0
+49098,Elmhurst,3.4,11373.0
+42434,Far Rockaway,2.7,11691.0
+154213,Financial District,37.5,10005.0
+48495,Flatbush,3.5,11226.0
+115084,Flatiron District,30.1,10010.0
+38370,Flushing,2.6,11355.0
+32129,Fordham Heights,1.1,10458.0
+35398,Fordham Manor,1.2,10468.0
+76467,Forest Hills,10.1,11375.0
+47189,Fort George,2.7,10040.0
+99085,Fort Greene,22.3,11217.0
+67115,Fresh Meadows,13.1,11366.0
+107861,Garment District,25.0,10018.0
+64481,Glendale,4.2,11385.0
+140450,Governors Island,33.0,10004.0
+116893,Gowanus,24.6,11215.0
+104441,Gramercy Park,26.8,10003.0
+46310,Gravesend,5.1,11223.0
+66113,Greenpoint,12.8,11211.0
+104561,Greenwich Village,22.7,10012.0
+56025,Greenwood Heights,6.5,11216.0
+44040,Hamilton Heights,4.2,10031.0
+93707,Hell's Kitchen,19.8,10036.0
+,Historic Downtown,,
+50909,Hudson Heights,3.7,10034.0
+106056,Hudson Square,33.4,10013.0
+57866,Hunters Point,11.9,11101.0
+50909,Inwood,3.7,10034.0
+53963,Jackson Heights,4.5,11372.0
+75307,Jamaica,5.6,11412.0
+64152,Kensington,7.4,11218.0
+65981,Kew Gardens,6.8,11415.0
+58924,Kew Gardens Hills,4.8,11367.0
+58881,Kingsbridge,6.3,10463.0
+35398,Kingsbridge Heights,1.2,10468.0
+109250,Kips Bay,23.2,10016.0
+85221,Koreatown,22.4,10001.0
+123842,Lenox Hill,34.8,10021.0
+123951,Lincoln Square,30.9,10023.0
+106056,Little Italy,33.4,10013.0
+57866,Long Island City,11.9,11101.0
+35449,Lower East Side,6.4,10002.0
+59287,Madison,7.0,11229.0
+82352,Manhattan Valley,21.5,10025.0
+45536,Manhattanville,7.9,10027.0
+58881,Marble Hill,6.3,10463.0
+79573,Middle Village,7.2,11379.0
+118469,Midtown East,25.1,10017.0
+46013,Midwood,6.7,11230.0
+79490,Mill Basin,8.5,11234.0
+45536,Morningside Heights,7.9,10027.0
+25489,Mott Haven,0.9,10455.0
+109250,Murray Hill,23.2,10016.0
+63700,New Lots,4.4,11236.0
+,Newport,,
+104561,NoHo,22.7,10012.0
+104561,NoLita,22.7,10012.0
+85221,NoMad,22.4,10001.0
+99085,North Slope,22.3,11217.0
+35381,Norwood,0.9,10467.0
+36009,Ocean Hill,3.2,11233.0
+49962,Parkchester,1.9,10462.0
+146833,Pelham,36.3,10803.0
+55847,Pelham Parkway,3.5,10461.0
+63455,Pomonok,5.6,11365.0
+79013,Prospect Heights,12.2,11238.0
+51926,Prospect Lefferts Gardens,4.7,11225.0
+71663,Queens Village,4.3,11428.0
+,Red Hook,,
+,Regent,,
+56863,Rego Park,5.3,11374.0
+64481,Ridgewood,4.2,11385.0
+92623,Roosevelt Island,19.1,10044.0
+109250,Rose Hill,23.2,10016.0
+104561,SoHo,22.7,10012.0
+47862,South Corona,1.6,11368.0
+116893,South Slope,24.6,11215.0
+58881,Spuyten Duyvil,6.3,10463.0
+55818,St. George,7.4,10301.0
+68050,Steinway,6.8,11105.0
+115084,Stuyvesant Town - Peter Cooper Village,30.1,10010.0
+63122,Sunnyside,6.0,11104.0
+42559,Sunset Park,3.5,11220.0
+133208,Sutton Place,35.3,10022.0
+107861,Theater District,25.0,10018.0
+54567,Tompkinsville,8.8,10304.0
+106056,Tribeca,33.4,10013.0
+133208,Turtle Bay,35.3,10022.0
+35449,Two Bridges,6.4,10002.0
+129594,Upper East Side,31.2,10075.0
+126107,Upper West Side,34.3,10024.0
+116446,Vinegar Hill,26.8,11201.0
+53044,Washington Heights,5.1,10033.0
+36009,Weeksville,3.2,11233.0
+127973,West Village,32.2,10014.0
+66113,Williamsburg,12.8,11211.0
+116893,Windsor Terrace,24.6,11215.0
+48140,Wingate,3.0,11203.0
+54989,Woodside,3.3,11377.0
+54583,Yorkville,0.0,13495.0
