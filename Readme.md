@@ -54,7 +54,7 @@ Furthermore the listings are distributed across the boroughs as follows:
 | Queens      |      554      |
 
 
-Part 4: Regression Analysis
+### Part 4: Regression Analysis
 
 My regression analysis is performed in the notebook titled 'Main Dataframe Regression Analysis.ipynb'.
 
@@ -62,9 +62,9 @@ I begin by viewing the distribution of asking rents in the dataframe. The mean a
 
 ![NYC Rent Distribution](/images-for-readme/rent-distribution.png)
 
-There is a high degree of kurtosis and the distribution is skewed heavily to the left. This is due in part to approximately 21 outliers with asking rents above $10,000.
+There is a high degree of kurtosis (Leptokurtic - thin and tall distribution) and the distribution is skewed heavily to the left. This is due in part to approximately 121 outliers with asking rents above $10,000.
 
-I continue my analysis by viewing a scatterplot of asking rents to various other variables to see the correlation. It is not possible to view the standard matrix as my dataframe contains 153 columns.
+I continue my analysis by viewing scatterplots of various variables to asking rents to see the correlations. It is not possible to view the standard matrix as my dataframe contains 153 columns.
 
 Bedrooms and median income appeared to have a higher correlation to asking rents than the location of the nearest subway station.
 
@@ -74,10 +74,15 @@ Bedrooms to Rent
 ![median_income_to_rent](/images-for-readme/median_income_to_rent.png)
 Median Income to Rent
 
-Finally I began the ols regression on all of my variables, the results are below:
+Finally I began the ols regression on all of my variables, the results of the first regression are below:
 
 ![first_ols](/images-for-readme/first_ols.png)
 
-I had a 0.53 r^2 and a 0.519 adjusted r^2. At first I was disappointed, however I remembered that this was user-entered data where reposts are likely and impossible to differentiate.
+I had a 0.53 r^2 and a 0.519 adjusted r^2. I continue to seek transformations and interactions in later regressions.
 
-I created a second ols with the insignifficant coefficients removed. The r^2 went down but the difference between the r^2 and adjusted r^2 thinned, indicating an improvement by removing these coefficients at the 95% confidence level.
+I created a second ols with the insignifficant coefficients removed. I further added an interaction variable between bathrooms and bedrooms to see if this ould improve my model. The r^2 went up to 0.534 and the adjusted r^2 went up to 0.525, indicating an improvement by removing irrelevant coefficients at the 95% confidence level.
+
+![second_ols](/images-for-readme/regression2.png)
+
+Finally I viewed a logarithmic transformation of the asking rents to see if I can account for the heteroscedasticity viewed in the original regression. The r^2 shot up to 0.689 indicating a logarithmic relationship better fits asking rents to the coefficients
+
