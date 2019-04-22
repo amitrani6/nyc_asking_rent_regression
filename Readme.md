@@ -39,4 +39,15 @@ I begin the EDA process by creating a choropleth map using the Folium library to
 
 I further created a series of pie charts to show the makeup of bedroom types.
 
+Most apartment listings are for one and two bedroom apartments, and most one bedroom apartment listings are for true one bedroom apartments, not studio apartments.
+
+Furthermore the listings are distributed across the boroughs as follows:
+
+|   Borough   |    Listings   |
+| ----------- |:-------------:|
+| Manhattan   |     4903      |
+| Brooklyn    |     1026      |
+| Queens      |      554      |
+
+
 Part 4: Regression Analysis
