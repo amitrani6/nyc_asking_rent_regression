@@ -84,5 +84,30 @@ I created a second ols with the insignifficant coefficients removed. I further a
 
 ![second_ols](/images-for-readme/regression2.png)
 
-Finally I viewed a logarithmic transformation of the asking rents to see if I can account for the heteroscedasticity viewed in the original regression. The r^2 shot up to 0.689 indicating a logarithmic relationship better fits asking rents to the coefficients
+Finally I viewed a logarithmic transformation of the asking rents to see if I can account for the heteroscedasticity viewed in the original regression. The r^2 shot up to 0.689 indicating a logarithmic relationship better fits asking rents to the coefficients.
+
+![third_ols](/images-for-readme/regression3.png)
+
+I also include a residual plot and a QQ Plot to check for Homoscedasticity.
+
+
+![third_ols_residual](/images-for-readme/residual.png)
+Residual Plot
+
+
+![third_ols_qq](/images-for-readme/qq.png)
+QQ Plot
+
+The model, although far from perfect, was greatly improved by the logarithmic transformation of the asking rent column.
+
+### Key Takeaways:
+
+-The data from RentHop is not perfect (brokers can omit or incorrectly enter data, and brokers can repost listings)
+
+-There are many more variables to explore, both directly relating to the listings and relating to the neighborhood
+
+-Some of the amenities I analyzed were surprising; The ability to have a dog affected asking rents, but cats being allowed did not affect rents.
+
+Overall this was a solid foundational project in predicting asking rents.
+
 
