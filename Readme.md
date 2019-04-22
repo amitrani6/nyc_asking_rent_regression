@@ -37,6 +37,8 @@ I begin the EDA process by creating a choropleth map using the Folium library to
 
 ![NYC Rent Postings Choropleth](/images-for-readme/choropleth.png)
 
+I then analyzed the distribution of asking rents with a 
+
 I further created a series of pie charts to show the makeup of bedroom types.
 
 Part 4: Regression Analysis
