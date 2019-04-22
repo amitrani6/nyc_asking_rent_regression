@@ -60,7 +60,7 @@ My regression analysis is performed in the notebook titled 'Main Dataframe Regre
 
 I begin by viewing the distribution of asking rents in the dataframe. The mean asking rent is $3895.70 and the innerquartile range is $2625 to $4300, with a standard deviation of $850.
 
-![NYC Rent Distribution](/images-for-readme/rent-distribution.png)
+![NYC Rent Distribution](/images-for-readme/rent_distribution.png)
 
 There is a high degree of kurtosis (Leptokurtic - thin and tall distribution) and the distribution is skewed heavily to the left. This is due in part to approximately 121 outliers with asking rents above $10,000.
 
