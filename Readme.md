@@ -35,7 +35,7 @@ Part 3: Perform EDA
 
 I begin the EDA process by creating a choropleth map using the Folium library to show where my rent postings are distributed throughout the city. I followed a guide written by Finn Qiao (https://towardsdatascience.com/visualizing-data-at-the-zip-code-level-with-folium-d07ac983db20) in a medium post and adjusted the code for my purposes. The file titled ‘nyczipcodetabulationareas.geojson’ contains neighborhood boundaries by zip code for NYC. I cut out only those neighborhoods where I had postings and plotted a frequency-based map (saved as 'nycchoropleth.html'):
 
-![NYC Rent Postings Choropleth](images-for-readme/choropleth.png)
+![NYC Rent Postings Choropleth](/images-for-readme/choropleth.png)
 
 I further created a series of pie charts to show the makeup of bedroom types.
 
